@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5ecee70-0603-4fb7-9028-91d09373a8f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events/event.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-world/tests/unit/test-handler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/template.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628663464330</updated>
-      <workItem from="1628663465646" duration="3738000" />
+      <workItem from="1628663465646" duration="5189000" />
     </task>
     <servers />
   </component>
