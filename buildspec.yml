@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 14
+
+  build:
+    commands:
+      # Use AWS SAM to package the application using AWS CloudFormation
+      - aws cloudformation package --template template.yaml --s3-bucket deploy-demo2 --output-template template-export.yml
+artifacts:
+  type: zip
+  files:
+    - template-export.yml
